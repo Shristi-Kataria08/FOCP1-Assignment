@@ -27,7 +27,7 @@ int main() {
         }
     }
 
-    // If 99 not found
+    // If 99 not found then we will print this
     if (flag == 0) {
         printf("Score 99 not found in the array.\n");
     }
